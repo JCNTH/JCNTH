@@ -22,7 +22,7 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science with 
 
 ### 🔧 Some Projects, More [Here](https://www.juliannth.com/#projects)
 
-#### 🏋️ Muscle Vision *(Patent Pending)*  
+#### 🏋️ Muscle Vision ([Patent](https://patentcenter.uspto.gov/applications/18388931))  
 AI-powered AR trainer visualizing 80+ muscles in real time. Demoed at **Unity's Conferences in [Amsterdam](https://www.youtube.com/watch?v=8ZIdejTiXAE&t=2894s) and [Barcelona](https://www.youtube.com/watch?v=okSYmGrPBDE&t=28s)!**.  
 *Tech:* Unity (C#), TensorFlow, ARKit, Maya.  
 
