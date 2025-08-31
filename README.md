@@ -2,7 +2,9 @@
 
 I'm a student at **Carnegie Mellon University**, studying Computer Science with a Minor in Machine Learning & HCI.  
 
-[Personal Website](https://www.juliannth.com) [Linkedin](https://www.linkedin.com/in/JulianNTH/) [Email](mailto:jngthowh@andrew.cmu.edu)
+[Personal Website](https://www.juliannth.com) 
+[Linkedin](https://www.linkedin.com/in/JulianNTH/) 
+[Email](mailto:jngthowh@andrew.cmu.edu)
 
 ---
 
