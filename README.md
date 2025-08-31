@@ -9,8 +9,8 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science with 
 
 ### 🚀 What I'm Currently Working On
 
-* **Model Health 🏋️ (ML Intern):** Delivering exercise metrics from video for clinics and enterprise customers; training **LSTMs/Transformers** on bench press data; building an **automated ML pipeline**.  
-* **CMU Musculoskeletal Biomechanics Lab (RA):** Building an **IMU-based joint kinematics web app** for research-wide use.
+* **[Model Health](https://www.modelhealth.io/):** Delivering exercise metrics from video for clinics and enterprise customers; training **LSTMs/Transformers** on bench press data; building an **automated ML pipeline**.  
+* **[CMU Musculoskeletal Biomechanics Lab](https://www.meche.engineering.cmu.edu/faculty/halilaj-musculoskeletal-biomechanics-lab.html):** Building an **IMU-based joint kinematics web app** for research-wide use.
 
 ---
 
