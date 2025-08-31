@@ -9,11 +9,10 @@ I'm a student at Carnegie Mellon University’s School of Computer Science.
 ## 🚀 What I'm Currently Working On  
 
 - **At Model Health 🏋️ (ML Intern)**  
-  Delivering lab-grade exercise metrics from smartphone video to clinics and enterprise customers (e.g., Adidas). Training **LSTMs/Transformers** on bench press datasets, adding **object tracking** for upper-body estimation, and building an **automated ML pipeline** for exercise recognition.  
+  Delivering lab-grade exercise metrics from smartphone video to clinics and enterprise customer, training **LSTMs/Transformers** on bench press datasets, adding **object tracking** for upper-body estimation, and building an **automated ML pipeline** for exercise recognition.  
 
 - **At CMU Musculoskeletal Biomechanics Lab (Research Assistant)**  
   Building an open-source **web app for IMU-based joint kinematics** with 3D playback via Three.js, deployed alongside a paper under review at *Proceedings of the National Academy of Sciences of the United States of America*.  
-  Created a **quaternion-based skeleton visualizer** to assess computer vision tracking methods for human motion.  
 
 ---
 
