@@ -37,9 +37,9 @@ Health insurance estimator using **facial analysis AI + hospital rates**. Built 
 OpenSim → 3D converter + quaternion-based skeleton tracking pipelines for biomechanics research.  
 
 ### 🎮 Legacy & Early Projects  
-- **HHS Connect MAD** — Social platform for schools (FBLA Nationals finalist).  
-- **CGS Monkey Escape** — Arcade game (FBLA Nationals 9th place).  
-- **HEEHAW Brawls** — Surviv.io-style 1v1 multiplayer.  
+- **HHS Connect MAD** — Social platform for schools (FBLA Nationals finalist for Mobile App Dev).  
+- **CGS Monkey Escape** — Arcade game (FBLA Nationals 9th place for Computer Game Simulation).  
+- **HEEHAW Brawls** — Surviv.io-style 1v1 multiplayer game.  
 - [**Physics Interactive Sims**](https://julianngthowhing.wixsite.com/juliannth/about-1) — iOS 2D physics app.  
 - [**Who’s Next: Word Chain Game**](https://julianngthowhing.wixsite.com/juliannth) — iOS soccer word-chain game.  
 
