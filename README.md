@@ -20,7 +20,7 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science with 
 
 ---
 
-### 🔧 Some Projects
+### 🔧 Some Projects, More [Here](https://www.juliannth.com/#projects)
 
 #### 🏋️ Muscle Vision *(Patent Pending)*  
 AI-powered AR trainer visualizing 80+ muscles in real time. Demoed at **Unity's Conferences in [Amsterdam](https://www.youtube.com/watch?v=8ZIdejTiXAE&t=2894s) and [Barcelona](https://www.youtube.com/watch?v=okSYmGrPBDE&t=28s)!**.  
@@ -42,14 +42,5 @@ OpenSim → 3D converter + quaternion-based skeleton tracking pipelines for biom
 - **HEEHAW Brawls** — Surviv.io-style 1v1 multiplayer.  
 - [**Physics Interactive Sims**](https://julianngthowhing.wixsite.com/juliannth/about-1) — iOS 2D physics app.  
 - [**Who’s Next: Word Chain Game**](https://julianngthowhing.wixsite.com/juliannth) — iOS soccer word-chain game.  
-
----
-
-### 📚 Publications & Talks
-
-* [Publications](https://www.juliannth.com/#publications)  
-* Podium talk at **Orthopaedic Research Society** (ACL rehab).  
-* Presented at **Unity Unite 2023 (Amsterdam)** & **2024 (Barcelona)**.  
-* Co-author on multiple biomechanics + AI healthcare manuscripts.  
 
 ---
