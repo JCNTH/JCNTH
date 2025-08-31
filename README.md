@@ -38,7 +38,7 @@ I'm a student at Carnegie Mellon University’s School of Computer Science.
 
 ---
 
-## 🔧 Projects & Pinned Repositories  
+## 🔧 Projects
 
 ### 🏋️ Muscle Vision *(Patent Pending)*  
 An **AI-powered AR personal trainer** that visualizes 80+ real-time muscle activations during exercise.  
@@ -73,8 +73,8 @@ Custom pipelines for biomechanics research:
 - **HHS Connect MAD** – Social media platform for schools (Finalist for Mobile App Developemnt Future Business Leaders of America Nationals).  
 - **CGS Monkey Escape** – Arcade-style Donkey Kong game (Placed 9th for Computer Game Simulation Future Business Leaders of America Nationals).
 - **HEEHAW Brawls** - Surviv.io-like game with multiplayer one versus one support. 
-- **Physics Interactive Sims** (https://julianngthowhing.wixsite.com/juliannth/about-1) – IOS App: Interactive 2D Phsyics Simulations for Improved Learning.  
-- **Who’s Next: Word Chain Game** (https://julianngthowhing.wixsite.com/juliannth) – IOS App: Word-chain soccer game.  
+- [**Physics Interactive Sims**] (https://julianngthowhing.wixsite.com/juliannth/about-1) – IOS App: Interactive 2D Phsyics Simulations for Improved Learning.  
+- [**Who’s Next: Word Chain Game**] (https://julianngthowhing.wixsite.com/juliannth) – IOS App: Word-chain soccer game.  
 
 ---
 
