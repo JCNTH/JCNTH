@@ -1,7 +1,6 @@
 # Hey there, I'm Julian 👋  
 
-I'm a student at Carnegie Mellon University’s School of Computer Science, pursuing a B.S. in Computer Science with a Minor in Machine Learning & HCI.  
-I’m passionate about building intelligent systems that merge **machine learning, biomechanics, and full-stack engineering**—from research-grade models to enterprise software.  
+I'm a student at Carnegie Mellon University’s School of Computer Science. 
 
 🌐 [Personal Website](https://www.juliannth.com) · [LinkedIn](https://www.linkedin.com/in/JulianNTH/) · [Email](mailto:jngthowh@andrew.cmu.edu)  
 
