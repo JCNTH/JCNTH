@@ -3,14 +3,14 @@
 I'm a student at **Carnegie Mellon University**, studying Computer Science with a Minor in Machine Learning & HCI.  
 
 [Personal Website](https://www.juliannth.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JulianNTH/) • [📧](mailto:jngthowh@andrew.cmu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JulianNTH/)
 
 ---
 
 ### 🚀 What I'm Currently Working On
 
-* **Model Health 🏋️ (ML Intern):** Delivering exercise metrics from video for clinics/enterprise; training **LSTMs/Transformers** on bench press data; building an **automated ML pipeline**.  
-* **CMU Musculoskeletal Biomechanics Lab (RA):** Building an **IMU-based joint kinematics web app** for research-wide use
+* **Model Health 🏋️ (ML Intern):** Delivering exercise metrics from video for clinics and enterprise customers; training **LSTMs/Transformers** on bench press data; building an **automated ML pipeline**.  
+* **CMU Musculoskeletal Biomechanics Lab (RA):** Building an **IMU-based joint kinematics web app** for research-wide use.
 
 ---
 
@@ -24,15 +24,15 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science with 
 ### 🔧 Some Projects
 
 #### 🏋️ Muscle Vision *(Patent Pending)*  
-AI-powered AR trainer visualizing 80+ muscles in real time. Demoed at **Unity's Unite Conferences at [Amsterdam](https://www.youtube.com/watch?v=8ZIdejTiXAE&t=2894s) and Barcelona()!**.  
+AI-powered AR trainer visualizing 80+ muscles in real time. Demoed at **Unity's Unite Conferences at [Amsterdam](https://www.youtube.com/watch?v=8ZIdejTiXAE&t=2894s) and [Barcelona](https://www.youtube.com/watch?v=okSYmGrPBDE&t=28s)!**.  
 *Tech:* Unity (C#), TensorFlow, ARKit, Maya.  
 
 #### 🧠 Ground Reaction Force Predictor  
-Single-camera LSTM predicting **GRF & muscle activation**; integrated into Muscle Vision for rehab/performance.  
+Single-camera LSTM predicting **GRF & muscle activation**; integrated into Muscle Vision for performance.  
 *Tech:* Keras, OpenSim, ARKit, Unity.  
 
 #### 📱 InsurAI *(HackCMU Winner – Best Use of Data)*  
-Health insurance estimator using **facial analysis AI + hospital rates**. Built in SwiftUI, CoreML. Awarded by **Hudson River Trading**.  
+Health insurance estimator using **facial analysis AI + hospital rates**. Built in SwiftUI, CoreML. Awarded by **Hudson River Trading** for unique use of synthetic data in training.  
 
 #### 🔬 Musculoskeletal Biomechanics Tools (osim2mbl)  
 OpenSim → 3D converter + quaternion-based skeleton tracking pipelines for biomechanics research.  
