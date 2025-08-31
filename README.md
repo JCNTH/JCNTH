@@ -1,4 +1,4 @@
-### Hey there, I'm Julian 👋
+### Hey, I'm Julian 👋
 
 I'm a student at **Carnegie Mellon University**, studying Computer Science with a Minor in Machine Learning & HCI.  
 
