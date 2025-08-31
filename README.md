@@ -30,7 +30,7 @@ AI-powered AR trainer visualizing 80+ muscles in real time. Demoed at **Unity's 
 Single-camera LSTM predicting **GRF & muscle activation**; integrated into Muscle Vision for performance.  
 *Tech:* Keras, OpenSim, ARKit, Unity.  
 
-#### 📱 InsurAI *(HackCMU Winner – Best Use of Data)*  
+#### 📱 InsurAI *(HackCMU Winner – Best Use of Data)* [Presentation](https://www.juliannth.com/images/InsuraiPresentation.pdf) • [Video](https://www.youtube.com/watch?v=o7VXdeS2tf4)
 Health insurance estimator using **facial analysis AI + hospital rates**. Built in SwiftUI, CoreML. Awarded by **Hudson River Trading** for unique use of synthetic data in training.  
 
 #### 🔬 IMU-based Joint Kinematics Visualizer
