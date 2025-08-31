@@ -2,16 +2,7 @@
 
 I'm a student at **Carnegie Mellon University**, studying Computer Science with a Minor in Machine Learning & HCI.  
 
-[Personal Website](https://www.juliannth.com)
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/JulianNTH/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jngthowh@andrew.cmu.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+[Personal Website](https://www.juliannth.com) [Linkedin](https://www.linkedin.com/in/JulianNTH/) [Email](mailto:jngthowh@andrew.cmu.edu)
 
 ---
 
@@ -24,8 +15,8 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science with 
 
 ### 🕑 Past Experiences
 
-* **Auctor (Software Engineer Intern):** Shipped persona/task generation features (Next.js, FastAPI, Postgres); architected **LLM-powered diagramming system**; supported 20+ enterprise/F500 customers, contributing to **70% MoM ARR growth** and **$4M Sequoia seed raise**.  
-* **Stanford Health Care (ML/Software Intern):** Built **FastFax**, CNN+OpenCV urgent fax triage system; **89% precision on 567k+ faxes**; cut turnaround from days → minutes; deployed in production, presented at **AMIA**.  
+* **Auctor (Software Engineer Intern):** Shipped persona/task generation features using **Next.js, FastAPI, PostgresSQL**; Architected an LLM-powered, Figma-style diagramming system with **LlamaIndex RAG** on multi-modal artifacts; built **agentic workflows** with subagent tool-call routing for NLP-based iterative edits in ReactFlow.
+* **Stanford Health Care (ML/Software Intern):** Built **FastFax**, CNN+OpenCV urgent fax triage system; **89% precision on 567k+ faxes**; cut turnaround from days → minutes; deployed at Stanford Health Care. 
 
 ---
 
