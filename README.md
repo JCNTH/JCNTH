@@ -16,7 +16,7 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science with 
 
 ### 🕑 Past Experiences
 
-* **Auctor (Software Engineer Intern):** Shipped persona/task generation features using **Next.js, FastAPI, PostgresSQL**; Architected an LLM-powered, Figma-style diagramming system with **LlamaIndex RAG** on multi-modal artifacts; built **agentic workflows** with subagent tool-call routing for NLP-based iterative edits in ReactFlow.
+* **Auctor (Software Engineer Intern):** Shipped persona/task generation features using **Next.js, FastAPI, PostgresSQL**. Also created an LLM-powere diagramming system with **LlamaIndex RAG** on multi-modal artifacts using **agentic workflows** with subagent tool-call routing for NLP-based iterative edits. 
 * **Stanford Health Care (ML/Software Intern):** Built **FastFax**, CNN+OpenCV urgent fax triage system; **89% precision on 567k+ faxes**; cut turnaround from days → minutes; deployed at Stanford Health Care. 
 
 ---
