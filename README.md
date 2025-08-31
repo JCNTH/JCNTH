@@ -23,7 +23,7 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science with 
 ### 🔧 Some Projects
 
 #### 🏋️ Muscle Vision *(Patent Pending)*  
-AI-powered AR trainer visualizing 80+ muscles in real time. Demoed at **Unity's Unite Conferences at [Amsterdam](https://www.youtube.com/watch?v=8ZIdejTiXAE&t=2894s) and [Barcelona](https://www.youtube.com/watch?v=okSYmGrPBDE&t=28s)!**.  
+AI-powered AR trainer visualizing 80+ muscles in real time. Demoed at **Unity's Conferences in [Amsterdam](https://www.youtube.com/watch?v=8ZIdejTiXAE&t=2894s) and [Barcelona](https://www.youtube.com/watch?v=okSYmGrPBDE&t=28s)!**.  
 *Tech:* Unity (C#), TensorFlow, ARKit, Maya.  
 
 #### 🧠 Ground Reaction Force Predictor  
@@ -33,7 +33,7 @@ Single-camera LSTM predicting **GRF & muscle activation**; integrated into Muscl
 #### 📱 InsurAI *(HackCMU Winner – Best Use of Data)*  
 Health insurance estimator using **facial analysis AI + hospital rates**. Built in SwiftUI, CoreML. Awarded by **Hudson River Trading** for unique use of synthetic data in training.  
 
-#### 🔬 Musculoskeletal Biomechanics Tools (osim2mbl)  
+#### 🔬 IMU-based Joint Kinematics Visualizer
 OpenSim → 3D converter + quaternion-based skeleton tracking pipelines for biomechanics research.  
 
 ### 🎮 Legacy & Early Projects  
