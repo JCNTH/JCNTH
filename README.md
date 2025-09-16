@@ -15,8 +15,8 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science with 
 ---
 
 ### 🕑 Past Experiences
-* **Auctor (Software Engineer Intern):** Built a LLM-powered diagramming system with **LlamaIndex RAG** on multi-modal artifacts with **agentic workflows** and tool-calling. Used **Next.js, FastAPI, PostgresSQL**. 
-* **Stanford Health Care (ML/Software Intern):** Built **FastFax**, CNN+OpenCV urgent fax triage system. Deployed at Stanford Health Care. 
+* **Auctor:** building AI for system integrators, solution engineers, and service teams.
+* **Stanford Health Care:** Built **FastFax**, CNN+OpenCV urgent fax triage system. Deployed at Stanford Health Care. 
 
 ---
 
