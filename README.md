@@ -1,6 +1,6 @@
 ### 
 
-I'm a student at **Carnegie Mellon University**, studying Computer Science with a Minor in Machine Learning & HCI.  
+I'm a student at **Carnegie Mellon University**, studying Computer Science, Machine Learning, and HCI. 
 
 [Personal Website](https://www.juliannth.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JulianNTH/)
@@ -16,7 +16,7 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science with 
 
 ### Past Experiences
 * **[Auctor](https://www.getauctor.com/):** building AI for system integrators, solution engineers, and service teams.
-* **Stanford Health Care:** Built **FastFax**, CNN+OpenCV urgent fax triage system. Deployed at Stanford Health Care. 
+* **Stanford Health Care:** Built **[FastFax](https://med.stanford.edu/seal/explore-seal-app/fast-fax.html)**, CNN+OpenCV urgent fax triage system. Deployed at Stanford Health Care. In operation since 2022. 
 
 ---
 
