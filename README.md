@@ -9,8 +9,8 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science with 
 
 ### What I'm Currently Working On
 
-* **[Model Health](https://www.modelhealth.io/):** Empowering Physical Therapists, Athletic Trainers and Sports Organizations to improve Physical Health and boost Human Performance with the most portable movement analysis solution
-* **[CMU Musculoskeletal Biomechanics Lab](https://www.meche.engineering.cmu.edu/faculty/halilaj-musculoskeletal-biomechanics-lab.html):** Building an **IMU-based joint kinematics web app** for research-wide use.
+* **[Model Health](https://www.modelhealth.io/):** Improving Physical Health and boosting Human Performance with the most portable movement analysis solution
+* **[CMU Musculoskeletal Biomechanics Lab](https://www.meche.engineering.cmu.edu/faculty/halilaj-musculoskeletal-biomechanics-lab.html):** Building an IMU-based joint kinematics web app for research-wide use
 
 ---
 
