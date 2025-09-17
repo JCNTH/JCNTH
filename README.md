@@ -16,7 +16,7 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science, Mach
 
 ### Past Experiences
 * **[Auctor](https://www.getauctor.com/):** building AI for system integrators, solution engineers, and service teams.
-* **Stanford Health Care:** Built **[FastFax](https://med.stanford.edu/seal/explore-seal-app/fast-fax.html)**, CNN+OpenCV urgent fax triage system. Deployed at Stanford Health Care. In operation since 2022. 
+* **Stanford Health Care:** Built **[FastFax](https://med.stanford.edu/seal/explore-seal-app/fast-fax.html)** pilot, CNN+OpenCV urgent fax triage system. Deployed at Stanford Health Care. In operation since 2022. 
 
 ---
 
