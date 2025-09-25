@@ -7,14 +7,14 @@ I'm a student at **Carnegie Mellon University**, studying Computer Science, Mach
 
 ---
 
-### What I'm Currently Working On
+### Currently @
 
 * **[Model Health](https://www.modelhealth.io/):** Improving Physical Health and boosting Human Performance with the most portable movement analysis solution
 * **[CMU Musculoskeletal Biomechanics Lab](https://www.meche.engineering.cmu.edu/faculty/halilaj-musculoskeletal-biomechanics-lab.html):** Building an IMU-based joint kinematics web app for research-wide use
 
 ---
 
-### Past Experiences
+### Previously @
 * **[Auctor](https://www.getauctor.com/):** building AI for system integrators, solution engineers, and service teams.
 * **Stanford Health Care:** Built **[FastFax](https://med.stanford.edu/seal/explore-seal-app/fast-fax.html)** pilot, CNN+OpenCV urgent fax triage system. Deployed at Stanford Health Care. In operation since 2022. 
 
