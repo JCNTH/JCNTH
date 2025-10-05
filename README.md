@@ -2,8 +2,7 @@
 
 I'm a student at **Carnegie Mellon University**, studying Computer Science, Machine Learning, and HCI. 
 
-[Personal Website](https://www.juliannth.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JulianNTH/)
+[Personal Website](https://www.juliannth.com) • [[LinkedIn]](https://www.linkedin.com/in/JulianNTH/)
 
 ---
 
