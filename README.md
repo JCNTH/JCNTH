@@ -1,6 +1,6 @@
 ### 
 
-I'm a student at **Carnegie Mellon University**, studying Computer Science, Machine Learning, and HCI. 
+I'm a student studying Computer Science at **Carnegie Mellon University**
 
 [Personal Website](https://www.juliannth.com) • [LinkedIn](https://www.linkedin.com/in/JulianNTH/)
 
