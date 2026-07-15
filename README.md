@@ -6,5 +6,5 @@ Currently @ [Meta Superintelligence Labs (AI Research Group)](https://github.com
 
 Previously @ [Auctor](https://www.getauctor.com/) (Y-Combinator, Sequioa Capital)
 
-[juliannth.com](https://www.juliannth.com) • [linkedIn](https://www.linkedin.com/in/JulianNTH/)
+[juliannth.com](https://www.juliannth.com) • [LinkedIn](https://www.linkedin.com/in/JulianNTH/)
 
