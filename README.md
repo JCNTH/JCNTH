@@ -2,7 +2,7 @@
 
 Computer Science at Carnegie Mellon • [juliannth.com](https://www.juliannth.com) • [LinkedIn](https://www.linkedin.com/in/JulianNTH/)
 
-Currently @ [Meta Superintelligence Labs (AI Research Group)](https://github.com/pytorch/executorch). Check out my [WebGPU](https://github.com/pytorch/executorch/tree/main/backends/webgpu) work!
+Currently @ [Meta Superintelligence Labs (AI Research Group)](https://github.com/pytorch/executorch). Building out the [WebGPU](https://github.com/pytorch/executorch/tree/main/backends/webgpu) backend from 0!
 
 Previously @ [Auctor](https://www.getauctor.com/) (Y-Combinator, Sequoia Capital)
 
