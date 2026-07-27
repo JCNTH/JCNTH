@@ -6,4 +6,6 @@ Currently @ [Meta Superintelligence Labs (AI Research Group)](https://github.com
 
 Previously @ [Auctor](https://www.getauctor.com/) (Y-Combinator, Sequoia Capital)
 
+6x Hackathon Winner (Berkeley, CMU x3, Harvard, Felicis)
+
 
