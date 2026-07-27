@@ -1,6 +1,6 @@
 ### 
 
-Computer Science at Carnegie Mellon • [juliannth.com](https://www.juliannth.com) • [LinkedIn](https://www.linkedin.com/in/JulianNTH/)
+Junior studying Computer Science at Carnegie Mellon • [juliannth.com](https://www.juliannth.com) • [LinkedIn](https://www.linkedin.com/in/JulianNTH/)
 
 Currently @ [Meta Superintelligence Labs (Fundamental AI Research Group)](https://github.com/pytorch/executorch). Leading [WebGPU](https://github.com/pytorch/executorch/tree/main/backends/webgpu) backend
 
