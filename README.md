@@ -6,6 +6,6 @@ Currently @ [Meta Superintelligence Labs (Fundamental AI Research Group)](https:
 
 Previously @ [Auctor](https://www.getauctor.com/) (Y-Combinator, Sequoia Capital)
 
-6x Hackathon Winner (Berkeley, CMU x3, Harvard, Felicis)
+7x Hackathon Winner (Berkeley, CMU x3, Harvard, Felicis, Meta)
 
 
