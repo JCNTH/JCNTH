@@ -1,6 +1,7 @@
 ### 
+Currently working on MLC-LLM and Apache TVM under Professor Tianqi Chen.
 
-Previously worked at [Meta Superintelligence Labs](https://github.com/pytorch/executorch) and [Auctor](https://www.getauctor.com/) (Y-Combinator, Sequoia Capital)
+Previously interned at [Meta Superintelligence Labs](https://github.com/pytorch/executorch) and [Auctor](https://www.getauctor.com/) (Y-Combinator, Sequoia Capital)
 
 7x Hackathon Winner (Berkeley, CMU x3, Harvard, Felicis, Meta)
 
